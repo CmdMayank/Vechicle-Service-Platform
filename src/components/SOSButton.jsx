@@ -8,6 +8,7 @@ export default function SOSButton({ onRequestHelp }) {
     if (active) return;
     setActive(true);
 
+    
     timeoutRef.current = setTimeout(() => {
       setActive(false);
       setTimeout(() => {
