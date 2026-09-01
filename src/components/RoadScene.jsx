@@ -53,7 +53,6 @@ function TowTruckSVG() {
         </filter>
       </defs>
 
-
       {/* ---- Flatbed / Tow bed ---- */}
       <rect x="30" y="72" width="170" height="12" rx="2" fill="url(#bedGrad)" stroke="#3a4a66" strokeWidth="0.5" />
       {/* Bed rails */}
